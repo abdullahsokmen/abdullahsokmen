@@ -1,5 +1,5 @@
 <h1 align="center">Hi  I'm Abdullah Sokmen</h1>
-<h3 align="center">Java Developer from Turkey</h3>
+<h3 align="center">Java Developer </h3>
 
 - 🌱 I’m currently learning **Java**
 
